@@ -1,0 +1,116 @@
+.menu {
+    width: 35%;
+    /* background-color: rgb(235, 157, 55); */
+    background-color: goldenrod;
+    /* background-color: teal; */
+    /* background-color: cyan; */
+    /* background-color: blanchedalmond; */
+    margin-left: auto;
+    margin-right: auto;
+    /* padding: 20px; */
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* max-width: 500px; */
+}
+
+body {
+    background-image: url(download\ \(16\)\ copy.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(229, 2, 2);
+}
+
+h2 {
+    font-size: 37px;
+}
+
+.plato {
+    text-align: left;
+    width: 49%;
+}
+
+.precio {
+    text-align: right;
+    width: 49%;
+}
+
+
+
+
+
+
+
+
+
+.food p {
+    display: inline-block;
+}
+
+footer {
+    color: #FFFFFF;
+
+}
+
+.link {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(229, 2, 2);
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+
+}
+
+img {
+    width: 75px;
+    display: block;
+    margin: 0 auto;
+}
+
+.span1 {
+    color: green;
+}
+
+.span2 {
+    color: white;
+}
+
+.span3 {
+    color: red;
+}
+
+hr {
+
+    border-color: rgb(69, 72, 240);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: white;
+}
